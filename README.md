@@ -2,7 +2,6 @@
 
 - 🎓 Second-year Data Science student at UiS  
 - 💻 Passionate about coding, AI, Python, and algorithms  
-- 🚗 Member of ION Racing  
 
 - 🌱 Currently learning Python (algorithms) and web development  
 - 👯 Open to collaborating on AI projects and technology  
